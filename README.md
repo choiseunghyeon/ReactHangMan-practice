@@ -15,10 +15,18 @@ You will also see any lint errors in the console.
 ## Ref
 
 Original code from [Brad Traversy.](https://github.com/bradtraversy/vanillawebprojects/tree/master/hangman)
+
 Original React code from [here.](https://github.com/codeSTACKr/hangman-react)
+
+## Features
+
+- Display English word's meaning in korean and Guess what English word is
+- Display wrong letters and correct letters
 
 ## Skill Set
 
 React
+
 Hooks
+
 Styled-components
